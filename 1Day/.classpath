@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/01_강의자료/자바 소스/Java/자바 취업반 소스/소스/1주차 소스/이메일 연동/mail.jar"/>
+	<classpathentry kind="lib" path="E:/01_강의자료/자바 소스/Java/자바 취업반 소스/소스/1주차 소스/이메일 연동/MyMail.jar"/>
+	<classpathentry kind="lib" path="E:/01_강의자료/자바 소스/Java/자바 취업반 소스/소스/1주차 소스/이메일 연동/activation.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
